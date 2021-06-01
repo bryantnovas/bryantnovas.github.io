@@ -1,0 +1,7 @@
+node_modules/
+README.md
+/scss
+gulpfile.js
+LICENSE.md
+package.json
+package-lock.json
